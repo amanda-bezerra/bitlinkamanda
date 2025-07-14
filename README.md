@@ -17,10 +17,4 @@
 - **Tailwind CSS** - Estilização
 - **TypeScript** - Tipagem estática
 - **Lucide Icons** - Ícones modernos
-- **Vercel** (opcional) - Hospedagem
-
-## 🚀 Como Usar
-
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/amanda-bezerra/bitlinkamanda.git
+  
