@@ -1,7 +1,5 @@
 # Bitlink Amanda - Linktree Personalizado
 
-![Preview](https://raw.githubusercontent.com/amanda-bezerra/bitlinkamanda/main/sua-foto.jpg.jpeg)
-
 > Página de links personalizada para profissionais de marketing digital, com design moderno e responsivo.
 
 ## ✨ Recursos
